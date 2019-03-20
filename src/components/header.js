@@ -4,22 +4,25 @@ import './header.css'
 function Header (props) {
     
         return (
-
-            <nav>
-            <div className="navbar-fixed">
-                <div class="nav-wrapper">
-                    <div className="container">
-                        <div className="row">
-                            <div className="col s12 m6">
-                                <input type="text" id="icon_prefix" placeholder="   Buscar..." className="validate holi"></input>
-                            </div>
-
-                        </div>
-                    </div>   
+            <div>
+            <nav className="nav-extended">
+                <div className="nav-wrapper">
+                    <a href="#" className="brand-logo left title">Baniguald<span className="app">app</span></a>
+                    <a href="#" data-target="mobile-demo" className="sidenav-trigger"></a>
+                    <ul id="nav-mobile" className="right">
+                        <li><a href=""><i className="material-icons right">search</i></a></li>
+                    </ul>
                 </div>
-            </div>    
+                <div className="nav-content">
+                    <ul className="tabs tabs-transparent">
+                        <li className="tab"><a className="categories" href="#test1">Tienda</a></li>
+                        <li className="tab"><a className="categories" href="#test2">Emprendedor</a></li>
+                        <li className="tab"><a className="categories" href="#test3">Calendario</a></li>
+                        <li className="tab"><a className="categories" href="#test4">Mi Perfil</a></li>
+                    </ul>
+                </div>
             </nav>
-            
+            </div>
         ) 
 }
 

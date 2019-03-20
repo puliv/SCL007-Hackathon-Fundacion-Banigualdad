@@ -1,8 +1,6 @@
 import React from 'react';
-//import './main.css'
-//import imagen from '../IMG/cremas.png'
-
-
+import imagen2 from '../IMG/jacket1.png'
+import './main3.css'
 
 
 function Main3 (props) {
