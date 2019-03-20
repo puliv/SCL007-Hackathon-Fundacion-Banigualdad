@@ -1,93 +1,113 @@
 [
 {
     "ID_Emprendedor": 1,
-    "Nombre_Fanstasia":"Costuras Dedal",
-    "Razon_Social":"Juana Dedal",
+    "Nombre_Emprendedor":"Juana Dedal",
+    "Nombre_Emprendimiento":"Costuras Dedal",
     "Imagen": "https://cf.ydcdn.net/latest/images/main/A5thimble-a.jpg",
-    "Contacto":["www.dedalito.cl","Correo:Juny@dedalito.cl"] ,
-    "Región": " Maule",
-    "Servicios": ["Costuras,Remienda,Bastas"]
+    "Descripción":"Creación de prendas exclusivas a la medida del cliente. ",
+    "Contacto":["Correo:juny@dedal.cl","Whatsapp:"],
+    "Región": "Maule",
+    "Ciclo": "11",
+    "Productos_Servicios": ["Costuras,Remienda,Bastas"]
 },
 {
-    "ID_Emprendedor": 2,
-    "Nombre_Fanstasia":"Artemis Belleza",
-    "Razon_Social":"Artemis Belleza",
+    "ID_Emprendedor": 2, 
+    "Nombre_Emprendedor":"Marcela Araya",
+    "Nombre_Emprendimiento":"Artemis Belleza",
     "Imagen": "https://www.facebook.com/ArtemisCentroDeEstetica/photos/pcb.1458683880827080/1458683850827083/?type=3&theater",
-    "Contacto":["www.artemisbelleza.cl","Correo:marratia@artemisbelleza.cl"] ,
+    "Descripción":"Nos dedicamos a lograr que nuestros clientes además de embellecer su cuerpo, se relajen profundamente y disfruten de un momento especial. ",
+    "Contacto":["Whatsapp:","Correo:marratia@artemisbelleza.cl"] ,
     "Región": " Metropolitana",
-    "Servicios": ["Masaje Descontracturante,Limpieza Facial"]
+    "Ciclo": "1",
+    "Productos_Servicios": ["Masaje Descontracturante,Limpieza Facial"]
 },
 {
-    "ID_Emprendedor": 3,
-    "Nombre_Fanstasia":"Dulces un Manjarsh",
-    "Razon_Social":"Dulcinea Ernestina Poblete Muñoz EIRL",
+    "ID_Emprendedor":3,
+    "Nombre_Emprendedor":"Dulcinea Ernestina Poblete Muñoz EIRL",
+    "Nombre_Emprendimiento":"Dulces un Manjarsh",
     "Imagen": "https://cdn5.vectorstock.com/i/1000x1000/18/29/candy-logo-design-template-vector-21071829.jpg",
-    "Contacto":["No aplica","Correo:dulcinea@unmanjarsh.cl"] ,
+    "Descripción":"Nos especializamos en la elaboración de tortas y pasteles gourmet",
+    "Contacto":["Whatsapp:","Correo:dulcinea@unmanjarsh.cl"] ,
     "Región": " De la Araucanía",
-    "Servicios": "Tortas,Pasteles"
+    "Ciclo": "7",
+    "Productos_Servicios": "Tortas,Pasteles"
 },
 {
     "ID_Emprendedor": 4,
-    "Nombre_Fanstasia":"Confites Amargo",
-    "Razon_Social":"Confites Amargo",
+    "Nombre_Emprendedor":"Luisa Lein",
+    "Nombre_Emprendimiento":"Confites Amargo",
     "Imagen": "https://creativeoverflow.net/wp-content/uploads/2016/10/candy-logos-805x370.jpg",
-    "Contacto":["www.confites.cl","Correo:confites@confites.cl"] ,
+    "Descripción":"Somos una importadora que distribuye marcas y productos de calidad internacional. ",
+    "Contacto":["Whatsapp:","Correo:confites@confites.cl"] ,
     "Región": " Concepción",
-    "Servicios": ["Masaje Descontracturante,Limpieza Facial"]
+    "Ciclo": "7",
+    "Productos_Servicios": ["Coyack,Papas Fritas,Galletas"]
 },
 {
     "ID_Emprendedor": 5,
-    "Nombre_Fanstasia":"Confecciones Seda",
-    "Razon_Social":"Euloquia de las Mercedes Marín Fuentes EIRL",
+    "Nombre_Emprendedor":"Euloquia de las Mercedes Marín Fuentes",
+    "Nombre_Emprendimiento":"Confeccione Seda",
+    "Descripción":"Somos una Empresa familiar que data del año 2000, en sus inicios desarrollaba sus funciones como sastrería de medida. ",
     "Imagen": "http://www.confectionboutique.com/wp-content/uploads/2014/12/cropped-logo.jpg",
-    "Contacto":["www.confecciones.cl","Correo:confeccion@confeccion.cl"] ,
+    "Contacto":["Whatsapp:","Correo:confeccion@confeccion.cl"] ,
     "Región": " Metropolitana",
-    "Servicios": ["Tienda deportiva,uniformes de colegio"]
+    "Ciclo": "5",
+    "Productos_Servicios": ["Tienda deportiva,uniformes de colegio"]
 },
 {
     "ID_Emprendedor": 6,
-    "Nombre_Fanstasia":"Flores de Bach",
-    "Razon_Social":"Flores de Bach",
+    "Nombre_Emprendedor":"Florencia Bach",
+    "Nombre_Emprendimiento":"Flores de Bach",
     "Imagen":"https://www.naturalskincare.ie/image/cache/data/bach/bach-original-flower-remedies-logo-250x250.jpg",
-    "Contacto":["www.floresh.cl","Correo:bach@bach.cl"] ,
+    "Descripción":"Las Flores de Bach son una serie de esencias naturales utilizadas para tratar diversas situaciones emocionales, como miedos, soledad, desesperación, estrés, depresión y obsesiones ",
+    "Contacto":["Whatsapp:","Correo:bach@bach.cl"] ,
     "Región": " Atacama",
-    "Servicios": ["Tratamientos ansiedad,Venta de esencias naturales"]
+    "Ciclo": "4",
+    "Productos_Servicios": ["Tratamientos ansiedad,Venta de esencias naturales"]
 },
 {
     "ID_Emprendedor": 7,
-    "Nombre_Fanstasia":"Florería Lilium",
-    "Razon_Social":"Florería Lilium",
+    "Nombre_Emprendedor":"Flor Rosas",
+    "Nombre_Emprendimiento":"Florería Lilium",
     "Imagen": "https://www.etcsfzc.com/wp-content/themes/eTCS-wp/assets/images/portfolio/LiliumLogo.jpg",
-    "Contacto":["www.lilium.cl","Correo:lilium@lilium.cl"] ,
+    "Descripción":"Calidad inmejorable de nuestros productos y los servicios de primera",
+    "Contacto":["Whatsapp:","Correo:lilium@lilium.cl"] ,
     "Región": " De los Lagos",
-    "Servicios": ["Ramos,Arreglos"]
+    "Ciclo": "9",
+    "Productos_Servicios": ["Ramos,Arreglos"]
 },
 {
     "ID_Emprendedor": 8,
-    "Nombre_Fanstasia":"Eventos Orio",
-    "Razon_Social":"Andrea Viviana Gonzales Osorio EIRL",
+    "Nombre_Emprendedor":"Andrea Viviana Gonzales Osorio",
+    "Nombre_Emprendimiento":"Eventos Osorio",
     "Imagen": "http://713creative.com/wp-content/uploads/2017/01/Events_Logos_icon3-01.png",
-    "Contacto":["www.eventosorio.cl","Correo:eventosorio@eventosorio.cl"] ,
+    "Descripción":"Somos una Gran Banquetería familiar, dedicada a organizar eventos y banquetes de: Matrimonios, Bautizos, Cumpleaños,etc ",
+    "Contacto":["Whatsapp:","Correo:eventosorio@eventosorio.cl"] ,
     "Región": "Del Libertador",
-    "Servicios": ["Eventos,Catering"]
+    "Ciclo": "12",
+    "Productos_Servicios": ["Eventos,Catering"]
 },
 {
     "ID_Emprendedor": 9,
-    "Nombre_Fanstasia":"Verdulería Zapallo",
-    "Razon_Social":"Verdulería Zapallo",
+    "Nombre_Emprendedor":"Ester Gonzalez",
+    "Nombre_Emprendimiento":"Verdulería Zapallo",
     "Imagen": "http://stellinadiving.com/wp-content/uploads/2018/10/vegetable-logo-design-make-organic-vegetables-logo-design-with-free-logo-maker-templates.png",
-    "Contacto":["www.zapallo.cl","Correo:zapallo@zapallo.cl"] ,
+    "Descripción":"Somos una Verduleria, despachamos nuestros productos a varias comunas y ademas estamos asociados a Cornershop.",
+    "Contacto":["Whatsapp:","Correo:zapallo@zapallo.cl"] ,
     "Región": "De los Ríos",
-    "Servicios": ["Frutas,Verduras,Frutos secos"]
+    "Ciclo": "6",
+    "Productos_Servicios": ["Frutas,Verduras,Frutos secos"]
 },
 {
     "ID_Emprendedor": 10,
-    "Nombre_Fanstasia":"Almacen de la Esquina",
-    "Razon_Social":"Maria Venecia Frías Rioseco EIRL",
+    "Nombre_Emprendedor":"Maria Venecia Frías Rioseco",
+    "Nombre_Emprendimiento":"Almacen de la Esquina",
     "Imagen": "https://i.pinimg.com/originals/5f/b3/1c/5fb31c464d6f5b955873c2ec7eda412d.gif",
-    "Contacto":["www.esquina.cl","Correo:esquina@esquina.cl"] ,
+    "Descripción":" Un lugar donde podrá encontrar destacadas marcas de licores, vinos, confites y regalos con excelente precios para nuestros vecinos. ",
+    "Contacto":["Whatsapp:","Correo:esquina@esquina.cl"] ,
     "Región": " Valparaíso",
-    "Servicios": ["Abarrotes,Pan,Productos de limpieza"]
+    "Ciclo": "8",
+    "Productos_Servicios": ["Abarrotes,Pan,Productos de limpieza"]
 }
 ]
     
