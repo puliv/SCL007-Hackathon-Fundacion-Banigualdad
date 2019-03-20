@@ -21,5 +21,18 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "## ¿Qué es Banigualdad?",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarceArratia/SCL007-Hackathon-Fundacion-Banigualdad.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarceArratia/SCL007-Hackathon-Fundacion-Banigualdad/issues"
+  },
+  "homepage": "https://github.com/MarceArratia/SCL007-Hackathon-Fundacion-Banigualdad#readme"
 }
