@@ -15,25 +15,18 @@ function Main3 () {
                     <div className="carousel-fixed-item center">
                         <a className="btn-floating btn-large waves-effect"><i className="material-icons">phone</i></a>
                     </div>
-                    <div className="carousel-item red white-text" href="#one!">
-                        <h2>First Panel</h2>
-                        <p className="white-text">This is your first panel</p>
+                    <div>
+                        <img className="picture-prod" src={imagen2} alt=""/>
                     </div>
-                    <div className="carousel-item amber white-text" href="#two!">
-                        <h2>Second Panel</h2>
-                        <p className="white-text">This is your second panel</p>
-                    </div>
-                    <div className="carousel-item green white-text" href="#three!">
-                        <h2>Third Panel</h2>
-                        <p className="white-text">This is your third panel</p>
-                    </div>
-                    <div className="carousel-item blue white-text" href="#four!">
-                        <h2>Fourth Panel</h2>
-                        <p className="white-text">This is your fourth panel</p>
+                    <div>
+                        <a className="flecha1"><i className="material-icons left">arrow_back</i></a>
+                        <a className="flecha2"><i className="material-icons right">arrow_forward</i></a>
                     </div>
                 </div>
+
                 <div>
                     <p>+569 123 45 678</p>
+                    <p>R. METROPOLITANA</p>
                     <p className="name">CLAUDIA DIAZ</p>
                 </div>
             </div>    

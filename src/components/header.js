@@ -7,7 +7,7 @@ function Header (props) {
             <div>
             <nav className="nav-extended">
                 <div className="nav-wrapper">
-                    <a href="#" className="brand-logo left title">Baniguald<span className="app">app</span></a>
+                    <a href="#" className="brand-logo left title">Banigualdapp</a>
                     <a href="#" data-target="mobile-demo" className="sidenav-trigger"></a>
                     <ul id="nav-mobile" className="right">
                         <li><a href=""><i className="material-icons right">search</i></a></li>
