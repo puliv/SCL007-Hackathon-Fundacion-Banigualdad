@@ -1,93 +1,146 @@
 [
 {
     "ID_Emprendedor": 1,
-    "Nombre_Fanstasia":"Costuras Dedal",
-    "Razon_Social":"Juana Dedal",
+    "Nombre_Emprendedor":"Juana Dedal",
+    "Nombre_Emprendimiento":"Costuras Dedal",
     "Imagen": "https://cf.ydcdn.net/latest/images/main/A5thimble-a.jpg",
-    "Contacto":["www.dedalito.cl","Correo:Juny@dedalito.cl"] ,
-    "Región": " Maule",
-    "Servicios": ["Costuras,Remienda,Bastas"]
+    "Descripción":"Creación de prendas exclusivas a la medida del cliente. ",
+    "Contacto":["Correo:juny@dedal.cl","Whatsapp:"],
+    "Región": "Maule",
+    "Ciclo": "11",
+    "Productos_Servicios": ["Costuras,Remienda,Bastas"]
 },
 {
-    "ID_Emprendedor": 2,
-    "Nombre_Fanstasia":"Artemis Belleza",
-    "Razon_Social":"Artemis Belleza",
+    "ID_Emprendedor": 2, 
+    "Nombre_Emprendedor":"Marcela Araya",
+    "Nombre_Emprendimiento":"Artemis Belleza",
     "Imagen": "https://www.facebook.com/ArtemisCentroDeEstetica/photos/pcb.1458683880827080/1458683850827083/?type=3&theater",
-    "Contacto":["www.artemisbelleza.cl","Correo:marratia@artemisbelleza.cl"] ,
-    "Región": " Metropolitana",
-    "Servicios": ["Masaje Descontracturante,Limpieza Facial"]
+    "Descripción":"Nos dedicamos a lograr que nuestros clientes además de embellecer su cuerpo, se relajen profundamente y disfruten de un momento especial. ",
+    "Contacto":["Whatsapp:","Correo:marratia@artemisbelleza.cl"] ,
+    "Región": " Coquimbo",
+    "Ciclo": "1",
+    "Productos_Servicios": ["Masaje Descontracturante,Limpieza Facial"]
 },
 {
-    "ID_Emprendedor": 3,
-    "Nombre_Fanstasia":"Dulces un Manjarsh",
-    "Razon_Social":"Dulcinea Ernestina Poblete Muñoz EIRL",
+    "ID_Emprendedor":3,
+    "Nombre_Emprendedor":"Dulcinea Ernestina Poblete Muñoz s",
+    "Nombre_Emprendimiento":"Dulces un Manjarsh",
     "Imagen": "https://cdn5.vectorstock.com/i/1000x1000/18/29/candy-logo-design-template-vector-21071829.jpg",
-    "Contacto":["No aplica","Correo:dulcinea@unmanjarsh.cl"] ,
+    "Descripción":"Nos especializamos en la elaboración de tortas y pasteles gourmet",
+    "Contacto":["Whatsapp:","Correo:dulcinea@unmanjarsh.cl"] ,
     "Región": " De la Araucanía",
-    "Servicios": "Tortas,Pasteles"
+    "Ciclo": "7",
+    "Productos_Servicios": "Tortas,Pasteles"
 },
 {
     "ID_Emprendedor": 4,
-    "Nombre_Fanstasia":"Confites Amargo",
-    "Razon_Social":"Confites Amargo",
+    "Nombre_Emprendedor":"Luisa Lein",
+    "Nombre_Emprendimiento":"Confites Amargo",
     "Imagen": "https://creativeoverflow.net/wp-content/uploads/2016/10/candy-logos-805x370.jpg",
-    "Contacto":["www.confites.cl","Correo:confites@confites.cl"] ,
+    "Descripción":"Somos una importadora que distribuye marcas y productos de calidad internacional. ",
+    "Contacto":["Whatsapp:","Correo:confites@confites.cl"] ,
     "Región": " Concepción",
-    "Servicios": ["Masaje Descontracturante,Limpieza Facial"]
+    "Ciclo": "7",
+    "Productos_Servicios": ["Coyack,Papas Fritas,Galletas"]
 },
 {
     "ID_Emprendedor": 5,
-    "Nombre_Fanstasia":"Confecciones Seda",
-    "Razon_Social":"Euloquia de las Mercedes Marín Fuentes EIRL",
+    "Nombre_Emprendedor":"Euloquia de las Mercedes Marín Fuentes",
+    "Nombre_Emprendimiento":"Confeccione Seda",
+    "Descripción":"Somos una Empresa familiar que data del año 2000, en sus inicios desarrollaba sus funciones como sastrería de medida. ",
     "Imagen": "http://www.confectionboutique.com/wp-content/uploads/2014/12/cropped-logo.jpg",
-    "Contacto":["www.confecciones.cl","Correo:confeccion@confeccion.cl"] ,
+    "Contacto":["Whatsapp:","Correo:confeccion@confeccion.cl"] ,
     "Región": " Metropolitana",
-    "Servicios": ["Tienda deportiva,uniformes de colegio"]
+    "Ciclo": "5",
+    "Productos_Servicios": ["Tienda deportiva,uniformes de colegio"]
 },
 {
     "ID_Emprendedor": 6,
-    "Nombre_Fanstasia":"Flores de Bach",
-    "Razon_Social":"Flores de Bach",
+    "Nombre_Emprendedor":"Florencia Bach",
+    "Nombre_Emprendimiento":"Flores de Bach",
     "Imagen":"https://www.naturalskincare.ie/image/cache/data/bach/bach-original-flower-remedies-logo-250x250.jpg",
-    "Contacto":["www.floresh.cl","Correo:bach@bach.cl"] ,
+    "Descripción":"Las Flores de Bach son una serie de esencias naturales utilizadas para tratar diversas situaciones emocionales, como miedos, soledad, desesperación, estrés, depresión y obsesiones ",
+    "Contacto":["Whatsapp:","Correo:bach@bach.cl"] ,
     "Región": " Atacama",
-    "Servicios": ["Tratamientos ansiedad,Venta de esencias naturales"]
+    "Ciclo": "4",
+    "Productos_Servicios": ["Tratamientos ansiedad,Venta de esencias naturales"]
 },
 {
     "ID_Emprendedor": 7,
-    "Nombre_Fanstasia":"Florería Lilium",
-    "Razon_Social":"Florería Lilium",
+    "Nombre_Emprendedor":"Flor Rosas",
+    "Nombre_Emprendimiento":"Florería Lilium",
     "Imagen": "https://www.etcsfzc.com/wp-content/themes/eTCS-wp/assets/images/portfolio/LiliumLogo.jpg",
-    "Contacto":["www.lilium.cl","Correo:lilium@lilium.cl"] ,
+    "Descripción":"Calidad inmejorable de nuestros productos y los servicios de primera",
+    "Contacto":["Whatsapp:","Correo:lilium@lilium.cl"] ,
     "Región": " De los Lagos",
-    "Servicios": ["Ramos,Arreglos"]
+    "Ciclo": "9",
+    "Productos_Servicios": ["Ramos,Arreglos"]
 },
 {
     "ID_Emprendedor": 8,
-    "Nombre_Fanstasia":"Eventos Orio",
-    "Razon_Social":"Andrea Viviana Gonzales Osorio EIRL",
+    "Nombre_Emprendedor":"Andrea Viviana Gonzales Osorio",
+    "Nombre_Emprendimiento":"Eventos Osorio",
     "Imagen": "http://713creative.com/wp-content/uploads/2017/01/Events_Logos_icon3-01.png",
-    "Contacto":["www.eventosorio.cl","Correo:eventosorio@eventosorio.cl"] ,
+    "Descripción":"Somos una Gran Banquetería familiar, dedicada a organizar eventos y banquetes de: Matrimonios, Bautizos, Cumpleaños,etc ",
+    "Contacto":["Whatsapp:","Correo:eventosorio@eventosorio.cl"] ,
     "Región": "Del Libertador",
-    "Servicios": ["Eventos,Catering"]
+    "Ciclo": "12",
+    "Productos_Servicios": ["Eventos,Catering"]
 },
 {
     "ID_Emprendedor": 9,
-    "Nombre_Fanstasia":"Verdulería Zapallo",
-    "Razon_Social":"Verdulería Zapallo",
+    "Nombre_Emprendedor":"Ester Gonzalez",
+    "Nombre_Emprendimiento":"Verdulería Zapallo",
     "Imagen": "http://stellinadiving.com/wp-content/uploads/2018/10/vegetable-logo-design-make-organic-vegetables-logo-design-with-free-logo-maker-templates.png",
-    "Contacto":["www.zapallo.cl","Correo:zapallo@zapallo.cl"] ,
+    "Descripción":"Somos una Verduleria, despachamos nuestros productos a varias comunas y ademas estamos asociados a Cornershop.",
+    "Contacto":["Whatsapp:","Correo:zapallo@zapallo.cl"] ,
     "Región": "De los Ríos",
-    "Servicios": ["Frutas,Verduras,Frutos secos"]
+    "Ciclo": "6",
+    "Productos_Servicios": ["Frutas,Verduras,Frutos secos"]
 },
 {
     "ID_Emprendedor": 10,
-    "Nombre_Fanstasia":"Almacen de la Esquina",
-    "Razon_Social":"Maria Venecia Frías Rioseco EIRL",
+    "Nombre_Emprendedor":"Maria Venecia Frías Rioseco",
+    "Nombre_Emprendimiento":"Almacen de la Esquina",
     "Imagen": "https://i.pinimg.com/originals/5f/b3/1c/5fb31c464d6f5b955873c2ec7eda412d.gif",
-    "Contacto":["www.esquina.cl","Correo:esquina@esquina.cl"] ,
+    "Descripción":" Un lugar donde podrá encontrar destacadas marcas de licores, vinos, confites y regalos con excelente precios para nuestros vecinos. ",
+    "Contacto":["Whatsapp:","Correo:esquina@esquina.cl"] ,
     "Región": " Valparaíso",
-    "Servicios": ["Abarrotes,Pan,Productos de limpieza"]
+    "Ciclo": "8",
+    "Productos_Servicios": ["Abarrotes,Pan,Productos de limpieza"]
+},
+{
+    "ID_Emprendedor": 11,
+    "Nombre_Emprendedor":"Jocelyn Penélope Fuentes Leal",
+    "Nombre_Emprendimiento":"Boutique Penélope",
+    "Imagen": "https://thumbs.dreamstime.com/z/boutique-logo-design-vector-sign-lettering-logotype-calligraphy-110186811.jpg",
+    "Descripción":"Ofertas de Ropa, zapatos y complementos ",
+    "Contacto":["Whatsapp:","Correo:penelope@penelope.cl"] ,
+    "Región": "Ñuble",
+    "Ciclo": "18",
+    "Productos_Servicios": ["Chaquetas,Bolsos,Accesorios"]
+},
+{
+    "ID_Emprendedor": 12,
+    "Nombre_Emprendedor":"Solange Euloquia Mendez Mendez",
+    "Nombre_Emprendimiento":"Productos Naturales Gaia",
+    "Imagen": "data:image/jpeg;base64,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",
+    "Descripción":"Un producto natural es un compuesto químico producido por un organismo vivo en la naturaleza ",
+    "Contacto":["Whatsapp:","Correo:cienporcientonatural@cienporcientonatural.cl"] ,
+    "Región": "Tarapacá",
+    "Ciclo": "14",
+    "Productos_Servicios": ["Agua Miscelar,Leche Virginal"]
+},
+{
+    "ID_Emprendedor": 13,
+    "Nombre_Emprendedor":"Miguel Alex Venegas Arratia",
+    "Nombre_Emprendimiento":"Vestuarios Perfect",
+    "Imagen": "https://st4.depositphotos.com/5520014/20429/v/1600/depositphotos_204296730-stock-illustration-clothes-rack-glyph-icon-hanger.jpg",
+    "Descripción":"Prepárate para vivir una satisfactoriaExperiencia de servicio. ",
+    "Contacto":["Whatsapp:","Correo:perfect@perfect.cl"] ,
+    "Región": "Antofagasta",
+    "Ciclo": "14",
+    "Productos_Servicios": ["Agua Miscelar,Leche Virginal"]
 }
 ]
     
