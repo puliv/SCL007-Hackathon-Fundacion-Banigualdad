@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import SearchRegion from './Component/SearchRegion.js';
-
-import './App.css';
+import './SearchRegion.css';
 
 class SearchRegion extends Component {
   render() {
