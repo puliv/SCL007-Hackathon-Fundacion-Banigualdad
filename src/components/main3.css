@@ -10,10 +10,10 @@
 .details{
     background-color: rgba(0, 0, 0, 0.6);
     position: absolute;
-    width: 363px;
+    width: 361px;
     height: 58px;
     left: -1px;
-    top: 128px;
+    top: 105px;
 }
 .title{
 font-family: 'Roboto', sans-serif;
