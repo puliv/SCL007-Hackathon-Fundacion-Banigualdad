@@ -22,6 +22,7 @@
     border-radius: 10.5px !important;
     font-size: 12px !important;
     text-align: left !important;
+    height: 21px !important;
 }
 .price{
     text-align: left;
@@ -50,4 +51,5 @@
 }
 .tag-contain{
     text-align: left;
+    height: 21px !important;
 }

@@ -76,10 +76,7 @@ function Main (props) {
                 
                 </div>
             </div>
-
-            
-            
-            
+                        
         ) 
 }
 
