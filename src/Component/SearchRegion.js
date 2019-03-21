@@ -14,6 +14,7 @@ class SearchRegion extends Component {
     var ref = firebase.database().ref();
     ref.orderByChild("Region").equalTo(userSelect.userSelect).on("value", 
     function(snapshot) {
+     
       console.log(snapshot.val());
     });
   }
