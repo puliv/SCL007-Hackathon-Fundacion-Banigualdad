@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import firebase from 'firebase';
-import {DB_CONFIG} from '../Initializers/firebase'
+import {DB_CONFIG} from '../Initializers/firebase';
 
 class SearchRegion extends Component {
   constructor(props){
@@ -11,8 +11,8 @@ class SearchRegion extends Component {
   filterRegion(userSelect){
     console.log(userSelect.userSelect);
 
+    let ref = firebase.database().ref();
     
-    var ref = firebase.database().ref();
     ref.orderByChild("Region").equalTo(userSelect.userSelect).on("value", 
     function(snapshot) {
      
@@ -36,7 +36,7 @@ class SearchRegion extends Component {
                     <option value="La Araucanía">Región De La Araucanía</option>
                     <option value="Los Ríos">Región de Los Ríos</option>
                     <option value="Los Lagos">Región de Los Lagos</option>
-                    <option value="Metropolitana">Región Metropolitana</option>
+                    <option value="Region Metropolitana">Región Metropolitana</option>
                     </select>
       </div>
     );

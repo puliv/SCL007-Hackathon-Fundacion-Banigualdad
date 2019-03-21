@@ -4,8 +4,6 @@ import imagen from '../IMG/cremas.png'
 import imagen1 from '../IMG/bolso.png'
 import imagen2 from '../IMG/jacket1.png'
 
-
-
 function Main (props) {
     
         return (
