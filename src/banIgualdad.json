@@ -1,5 +1,5 @@
-{
-    "Region" : "Metropolitana",
+[{
+    "Region" : "Región Metropolitana",
     "ciclo" : 7,
     "contacto" : {
       "mail" : false,
@@ -10,18 +10,265 @@
       "semanasPagadas" : 3,
       "semanasTotales" : 4
     },
-    "fotoPerfil" : "https://www.banigualdad.cl/wp-content/uploads/2018/06/alice-peailillo.jpg",
+    "fotoPerfil" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlKh9LCGFOuhDAvH4x5u5PNVoaMdZTsLswgA_K8BkE9sJP2tqw",
     "idEmprendedor" : 1234567,
+    "nombreEmprendedor" : "Marianela Rivas",
+    "nombreEmprendimiento" : "Creaciones Rivas",
     "infoEmprendimiento" : "Creación de prendas exclusivas a la medida del cliente, bastas, ajustes ",
     "productosOServicios" : [ {
       "foto" : "https://unsplash.com/photos/omgRZCmTvUM",
-      "nombreProducto" : "Costuras",
+      "nombreProducto" : "Corte y Confección",
       "precio" : 2000
     }, {
-      "foto" : "https://unsplash.com/photos/qQKv7r1BaRw",
+      "foto" : "https://images.unsplash.com/photo-1535522967913-991746f01fcd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80",
       "nombreProducto" : "Bastas",
       "precio" : 1500
     } ],
     "rubro" : "Vestuario",
     "ubicacion" : "Región Metropolitana"
+  },
+
+  {
+    "Region" : "Región Metropolitana",
+    "ciclo" : 2,
+    "contacto" : {
+      "mail" : false,
+      "whatsapp" : "+5699876543"
+    },
+    "cuota" : {
+      "mes" : "Junio",
+      "semanasPagadas" : 1,
+      "semanasTotales" : 3
+    },
+    "fotoPerfil" : "https://s3.amazonaws.com/nv1cdn2/2017/08/agrijorca2.jpg",
+    "idEmprendedor" : 1234568,
+    "nombreEmprendedor" : "Sol Gutierrez",
+    "nombreEmprendimiento" : "Zapallito Italiano",
+    "infoEmprendimiento" : "Vende al público todo tipo de verduras y frutas frescas a el mejor precio de la zona",
+    "productosOServicios" : [ {
+      "foto" : "https://unsplash.com/photos/h4zs8fbybq4",
+      "nombreProducto" : "Arándanos",
+      "precio" : 2000
+    }, {
+      "foto" : "https://unsplash.com/photos/BapCHLuLe9Q",
+      "nombreProducto" : "Pimentón",
+      "precio" : 300
+    } ],
+    "rubro" : "Alimentación",
+    "ubicacion" : "Región Metropolitana"
+  },
+
+
+
+
+
+  {
+    "Region" : "Región de Ñuble",
+    "ciclo" : 8,
+    "contacto" : {
+      "mail" : false,
+      "whatsapp" : "+5693456765"
+    },
+    "cuota" : {
+      "mes" : "Enero",
+      "semanasPagadas" : 5,
+      "semanasTotales" : 10
+    },
+    "fotoPerfil" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYjsntKlsCy3RiRNV0okYOzpBdA-kO-OZIsM7UMeiJKrGeU7BRxA",
+    "idEmprendedor" : 1234569,
+    "nombreEmprendedor" : "Ester Fuentes",
+    "nombreEmprendimiento" : "Artemis Belleza",
+    "infoEmprendimiento" : "Somos una Estética vanguardista; tecnología e infraestructura. Todos nuestros tratamientos son 100% efectivos.",
+    "productosOServicios" : [ {
+      "foto" : "https://unsplash.com/photos/a9pFSC8dTlo",
+      "nombreProducto" : "Masaje Descontracturante",
+      "precio" : 10000
+    }, {
+      "foto" : "https://images.unsplash.com/photo-1531299204812-e6d44d9a185c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80",
+      "nombreProducto" : "Limpieza Facial",
+      "precio" : 15000
+    } ],
+    "rubro" : "Estética",
+    "ubicacion" : "Región de Ñuble"
+  },
+
+  {
+    "Region" : "Región de Los Ríos",
+    "ciclo" : 7,
+    "contacto" : {
+      "mail" : false,
+      "whatsapp" : "+56923454345"
+    },
+    "cuota" : {
+      "mes" : "Abril",
+      "semanasPagadas" : 2,
+      "semanasTotales" : 15
+    },
+    "fotoPerfil" : "https://static.unoentrerios.com.ar/adjuntos/205/imagenes/020/958/0020958795.jpg",
+    "idEmprendedor" : 1234570,
+    "nombreEmprendedor" : "Lupita María De la Riva",
+    "nombreEmprendimiento" : "Creaciones Rivas",
+    "infoEmprendimiento" : "Es una tienda en lo que encuentras todo lo que estas buscando en prendas de vestir, ofrecemos nuevos estilos novedosos,de colores llamativos y de hermosos acabados.",
+    "productosOServicios" : [ {
+      "foto" : "https://unsplash.com/photos/9Jr9hUzRVhc",
+      "nombreProducto" : "Polera Estampada",
+      "precio" : 8990
+    }, {
+      "foto" : "https://images.unsplash.com/photo-1545626175-da83c15eacd5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80",
+      "nombreProducto" : "Vestido Estilo Oriental",
+      "precio" : 13990
+    } ],
+    "rubro" : "Vestuario",
+    "ubicacion" : "Región de Los Ríos"
+  },
+
+  {
+    "Region" : "Región de Maule",
+    "ciclo" : 8,
+    "contacto" : {
+      "mail" : false,
+      "whatsapp" : "+5693456765"
+    },
+    "cuota" : {
+      "mes" : "Enero",
+      "semanasPagadas" : 5,
+      "semanasTotales" : 10
+    },
+    "fotoPerfil" : "https://www.banigualdad.cl/wp-content/uploads/2018/06/alice-peailillo.jpg",
+    "idEmprendedor" : 1234577,
+    "nombreEmprendedor" : "Alice Peñailillo",
+    "nombreEmprendimiento" : "Amatista",
+    "infoEmprendimiento" : "Piedras decorativas en dos medidas, pequeñas un poco más grande que un grano de arroz y las piedras grandes, del tamaño de una moneda de $100 pesos.",
+    "productosOServicios" : [ {
+      "foto" : "https://images.unsplash.com/photo-1523681504355-8b4860f99a58?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "nombreProducto" : "Péndulo de Cuarzo",
+      "precio" : 5000
+    }, {
+      "foto" : "https://http2.mlstatic.com/set-de-7-piedras-energeticas-roladas-para-reiki-D_NQ_NP_741776-MLA28581559258_112018-F.jpg",
+      "nombreProducto" : "Diversos tipos de Piedras",
+      "precio" : 9990
+    } ],
+    "rubro" : "Decoración",
+    "ubicacion" : "Región de Maule"
+  },
+
+  {
+    "Region" : "Región Metropolitana",
+    "ciclo" : 13,
+    "contacto" : {
+      "mail" : false,
+      "whatsapp" : "+569456788765"
+    },
+    "cuota" : {
+      "mes" : "Septiembre",
+      "semanasPagadas" : 9,
+      "semanasTotales" : 20
+    },
+    "fotoPerfil" : "https://www.banigualdad.cl/wp-content/uploads/bfi_thumb/solange-cspedes-nzgiollbnsvnc7ru6gnmww0ubugl3iagb9dipjwkdo.jpg",
+    "idEmprendedor" : 1234589,
+    "nombreEmprendedor" : "Solange Céspedes",
+    "nombreEmprendimiento" : "Decoraciones Pomaire",
+    "infoEmprendimiento" : "Somos Diseñadores, ceramistas y artesanos escogidos por su alto nivel de calidad técnica y estética.",
+    "productosOServicios" : [ {
+      "foto" : "https://images.unsplash.com/photo-1520408222757-6f9f95d87d5d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "nombreProducto" : "Conjunto decoración",
+      "precio" : 11990
+    }, {
+      "foto" : "https://images.unsplash.com/photo-1474444417714-f5d07c4d6a38?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=698&q=80",
+      "nombreProducto" : "Floreros variedades",
+      "precio" : 1990
+    } ],
+    "rubro" : "Decoración",
+    "ubicacion" : "Región Metropolitana"
+  },
+
+  {
+    "Region" : "Región de Bíobío",
+    "ciclo" : 15,
+    "contacto" : {
+      "mail" : false,
+      "whatsapp" : "+56935678905"
+    },
+    "cuota" : {
+      "mes" : "Noviembre",
+      "semanasPagadas" : 7,
+      "semanasTotales" : 17
+    },
+    "fotoPerfil" : "https://www.banigualdad.cl/wp-content/uploads/2018/01/luz-gacita.jpg",
+    "idEmprendedor" : 1234556,
+    "nombreEmprendedor" : "Luz Gacitúa",
+    "nombreEmprendimiento" : "Beauty Light",
+    "infoEmprendimiento" : "Compre los mejores cosméticos para su negocio hoy, envió disponible a Chile. Empresa Mayorista",
+    "productosOServicios" : [ {
+      "foto" : "https://images.unsplash.com/photo-1544838673-1a1acb7e049d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80",
+      "nombreProducto" : "Set de Maquillaje",
+      "precio" : 9990
+    }, {
+      "foto" : "https://images.unsplash.com/photo-1542452255191-c85a98f2c5d1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80",
+      "nombreProducto" : "Lápiz Labial",
+      "precio" : 4990
+    } ],
+    "rubro" : "Estética",
+    "ubicacion" : "Región de Bíobío"
+  },
+
+  {
+    "Region" : "Región Metropolitana",
+    "ciclo" : 3,
+    "contacto" : {
+      "mail" : false,
+      "whatsapp" : "+5693456765"
+    },
+    "cuota" : {
+      "mes" : "Enero",
+      "semanasPagadas" : 2,
+      "semanasTotales" : 10
+    },
+    "fotoPerfil" : "https://www.banigualdad.cl/wp-content/uploads/2017/07/guadalupe-1-1024x681.jpg",
+    "idEmprendedor" : 1234523,
+    "nombreEmprendedor" : "Guadalupe Hernández",
+    "nombreEmprendimiento" : "Flores de Lupe",
+    "infoEmprendimiento" : "Cada una de las 38 remedios descubiertos por el Dr. Bach ayudan a equilibrar una característica o estado emocional negativo en particular, por ejemplo: el miedo, la falta de confianza, etc.",
+    "productosOServicios" : [ {
+      "foto" : "https://www.australiaunwrapped.com/wp-content/uploads/2014/11/flower-essences.jpg",
+      "nombreProducto" : "Escencia de lavanda",
+      "precio" : 5000
+    }, {
+      "foto" : "http://cdn1.feelunique.com/img/products/47714/Bach_Original_Flower_Remedies_Wooden_Boxed_20ml_Set_1391593699.png",
+      "nombreProducto" : "Set de escencias",
+      "precio" : 29990
+    } ],
+    "rubro" : "Estética",
+    "ubicacion" : "Región Metropolitana"
+  },
+
+  {
+    "Region" : "Región Metropolitana",
+    "ciclo" : 3,
+    "contacto" : {
+      "mail" : false,
+      "whatsapp" : "+5693456765"
+    },
+    "cuota" : {
+      "mes" : "Enero",
+      "semanasPagadas" : 2,
+      "semanasTotales" : 10
+    },
+    "fotoPerfil" : "https://www.banigualdad.cl/wp-content/uploads/2018/03/marianela-crdova.jpg",
+    "idEmprendedor" : 1234511,
+    "nombreEmprendedor" : "Mariela Córdova",
+    "nombreEmprendimiento" : "Confecciones Body",
+    "infoEmprendimiento" : "Industria textil especializada en la confección de uniformes escolares personalizadas, que garantiza confianza en el servicio y alta calidad.",
+    "productosOServicios" : [ {
+      "foto" : "https://images.unsplash.com/photo-1533750653522-70028fa24486?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1664&q=80",
+      "nombreProducto" : "Uniforme completo",
+      "precio" : 25000
+    }, {
+      "foto" : "https://vestimenta.portalinnova.cl/wp-content/uploads/2018/11/uniformes-escolares-vestimenta-07.jpg?gid=2",
+      "nombreProducto" : "Buzo Completo",
+      "precio" : 15990
+    } ],
+    "rubro" : "Vestuario",
+    "ubicacion" : "Región Metropolitana"
   }
+]
